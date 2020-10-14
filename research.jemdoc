@@ -3,15 +3,15 @@
 == Journal Publications
 
 
-- [https://arxiv.org/abs/1905.06097 Iterative Alpha Expansion for estimating gradient-sparse signals from linear measurements], *Sheng Xu*, and Zhou Fan. /Journal of the Royal Statistical Society: Series B (JRSS-B), to appear/. [https://arxiv.org/abs/1905.06097 Arxiv] 
+- [https://arxiv.org/abs/1905.06097 Iterative Alpha Expansion for estimating gradient-sparse signals from linear measurements], *Sheng Xu*, and Zhou Fan. /Journal of the Royal Statistical Society: Series B (JRSS-B), to appear/. [https://arxiv.org/abs/1905.06097 \[Arxiv\]] [ITALE.tar.gz \[software\]]
 
-- [https://projecteuclid.org/euclid.bj/1517540460 On Gaussian comparison inequality and its application to spectral analysis of large random matrices], Fang Han, *Sheng Xu*, and Wen-Xin Zhou. /Bernoulli, Volume 24, Number 3 (2018), 1787-1833/. [https://arxiv.org/abs/1607.01853 Arxiv]
+- [https://projecteuclid.org/euclid.bj/1517540460 On Gaussian comparison inequality and its application to spectral analysis of large random matrices], Fang Han, *Sheng Xu*, and Wen-Xin Zhou. /Bernoulli, Volume 24, Number 3 (2018), 1787-1833/. [https://arxiv.org/abs/1607.01853 \[Arxiv\]]
 
 
 
 == Conference Publications
 
-- [http://proceedings.mlr.press/v125/xu20a.html Tree-Projected Gradient Descent for Estimating Gradient-Sparse Parameters on Graphs], *Sheng Xu*, Zhou Fan, and Sahand Negahban, Conference on Learning Theory (COLT), 2020. [https://arxiv.org/abs/2006.01662 Arxiv]
+- [http://proceedings.mlr.press/v125/xu20a.html Tree-Projected Gradient Descent for Estimating Gradient-Sparse Parameters on Graphs], *Sheng Xu*, Zhou Fan, and Sahand Negahban, Conference on Learning Theory (COLT), 2020. [https://arxiv.org/abs/2006.01662 \[Arxiv\]][TreePGD.pdf \[slides\]]
 
 - [http://proceedings.mlr.press/v37/qiu15.html Robust estimation of transition matrices in high dimensional heavy-tailed vector autoregressive processes], Huitong Qiu, *Sheng Xu*, Fang Han, Han Liu, and Brian Caffo, International Conference on Machine Learning (ICML), 2015.
 
