@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Sheng Xu
+
+~~~
+{}{img_left}{Sheng.jpg}{}{280}{340}{}
+ 
+Welcome to my homepage! 
+
+I'm currently a 5th year phd student in the [https://statistics.yale.edu/ Statistics and Data Science] at Yale University, advised by Professor [http://www.stat.yale.edu/~zf59/ Zhou Fan]. I am also very fortunate to be supervised by Professor [https://sahandnegahban.com/ Sahand Negahban] and Professor [https://yisun.io/ Yi Sun] on particular projects.
+
+Prior to joining Yale, I received my Bachelor's degree in mathematics and statistics from the [http://www.math.pku.edu.cn/ School of Mathematical Sciences] and a dual degree in Economics from the [http://www.nsd.pku.edu.cn/ China Center for Economic Research] at [http://english.pku.edu.cn/ Peking University].
+
+
+~~~
+
+== Contact
+- Email: sheng.xu /at/ yale /dot/ edu
+- Address: Department of Statistics and Data Science, 24 Hillhouse Avenue, New Haven, CT 06511, USA.
+
+
+== Research Interests
+- High Dimensional and Multivariate Statistics
+- Statistical Learning Theory
+- Signal Processing
+- Combinatorial Algorithms
+- Convex and Nonconvex Optimization
+- Network Analysis
+- Time Series Analysis
+- Econometrics
