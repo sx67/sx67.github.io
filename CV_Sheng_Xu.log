@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.4)  2 MAY 2022 02:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.12.4)  24 MAY 2022 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -138,7 +138,7 @@ Overfull \hbox (10.55986pt too wide) in paragraph at lines 46--60
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (23.0209pt too wide) in paragraph at lines 125--126
+Overfull \hbox (23.0209pt too wide) in paragraph at lines 126--127
 []\OT1/cmr/m/n/10 Gao, W. Y., & \OT1/cmr/bx/n/10 Xu, S. \OT1/cmr/m/n/10 (2020).
  Two-Stage Max-i-mum Score Es-ti-ma-tor. \OT1/cmr/m/it/10 ArXiv e-prints, abs/2
 009.02854\OT1/cmr/m/n/10 . 
@@ -148,11 +148,11 @@ Overfull \hbox (23.0209pt too wide) in paragraph at lines 125--126
 Here is how much of TeX's memory you used:
  942 strings out of 478994
  14984 string characters out of 5858184
- 313271 words of memory out of 5000000
+ 314271 words of memory out of 5000000
  18489 multiletter control sequences out of 15000+600000
  404988 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,4n,74p,270b,175s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,4n,74p,270b,177s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
@@ -161,7 +161,7 @@ fonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on CV_Sheng_Xu.pdf (2 pages, 98658 bytes).
+Output written on CV_Sheng_Xu.pdf (2 pages, 98676 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
