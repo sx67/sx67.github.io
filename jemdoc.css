@@ -6,6 +6,7 @@ table#tlayout {
     background: white;
 }
 
+
 body {
 	background: white;
 	font-family: Georgia, serif;
@@ -365,3 +366,6 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+

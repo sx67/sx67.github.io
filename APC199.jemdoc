@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter  
+
+
+== APC 199 / MAT 199: Math Alive, Princeton (Spring 2025)
+
+*Time:* Tu & Th, 11:00AM–12:20PM.  
+
+*Location:* Jadwin Hall A09.
+
+*Syllabus:* [APC199_slides/syllabus.pdf Link].
+
+
+
+*Schedule:*
+
+
+~~~
+{}{table}{TABLENAME}
+ Date        | Topic                          | Materials ||
+ 01\/28\/2025   | Probability 1                   | [APC199_slides/Probability1.pdf Slides] ||
+ 01\/30\/2025   | Probability 2                   | [APC199_slides/Probability2.pdf Slides] ||
+ 02\/04\/2025   | Statistics 1                    | [APC199_slides/Statistics1.pdf Slides] ||
+ 02\/06\/2025   | Statistics 2                    | [APC199_slides/Statistics2.pdf Slides] ||
+ 02\/11\/2025   | Epidemiology 1                  | [APC199_slides/Epidemiology1.pdf Slides] ||
+ 02\/13\/2025   | Epidemiology 2                  | [APC199_slides/Epidemiology2.pdf Slides] ||
+ 02\/18\/2025   | Epidemiology 3                  | [APC199_slides/Epidemiology3.pdf Slides] ||
+ 02\/20\/2025   | Cryptography 1                  | [APC199_slides/Cryptography1.pdf Slides] ||
+ 02\/25\/2025   | Cryptography 2                  | [APC199_slides/Cryptography2.pdf Slides] ||
+ 02\/27\/2025   | Midterm Review                  |       ||
+ 03\/05\/2025   | Midterm                         |       ||
+ 03\/18\/2025   | Cryptography 3                  | [APC199_slides/Cryptography3.pdf Slides] ||
+ 03\/20\/2025   | Cryptography 4                  | [APC199_slides/Cryptography4.pdf Slides] ||
+ 03\/25\/2025   | Cryptography 5                  | [APC199_slides/Cryptography5.pdf Slides] ||
+ 03\/27\/2025   | Game Theory 1                   | [APC199_slides/GameTheory1.pdf Slides] ||
+ 04\/01\/2025   | Game Theory 2                   | [APC199_slides/GameTheory2.pdf Slides] ||
+ 04\/03\/2025   | Game Theory 3                   | [APC199_slides/GameTheory3.pdf Slides] ||
+ 04\/08\/2025   | Machine Learning 1              | [APC199_slides/MachineLearning1.pdf Slides] ||
+ 04\/10\/2025   | Machine Learning 2              | [APC199_slides/MachineLearning2.pdf Slides] ||
+ 04\/15\/2025   | Machine Learning 3              | [APC199_slides/MachineLearning3.pdf Slides] ||
+ 04\/17\/2025   | Machine Learning 4              | [APC199_slides/MachineLearning4.pdf Slides] ||
+ 04\/22\/2025   | Machine Learning 5              | [APC199_slides/MachineLearning5.pdf Slides] ||
+ 04\/24\/2025   | Machine Learning 6              | [APC199_slides/MachineLearning6.pdf Slides] ||
+ 05\/11\/2025   | Final                           |       
+~~~
+
+

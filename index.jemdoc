@@ -6,9 +6,11 @@
  
 Welcome to my homepage! 
 
-I'm currently a Postdoctoral Research Associate in the [https://www.pacm.princeton.edu/ Program in Applied and Computational Mathematics (PACM)] at Princeton University, working with Professor [http://web.math.princeton.edu/~amits/ Amit Singer]. 
-Previously, I obtained my Ph.D. in [https://statistics.yale.edu/ Statistics and Data Science] at Yale University, advised by Professors [http://www.stat.yale.edu/~zf59/ Zhou Fan] and [https://sahandnegahban.com/ Sahand Negahban]. I was also very fortunate to be supervised by Professors [https://sites.google.com/site/xiaohongchenyale/ Xiaohong Chen], [https://yisun.io/ Yi Sun], [https://roy.lederman.name/ Roy Lederman], [https://sites.stat.washington.edu/people/fanghan/ Fang Han] and [https://sites.google.com/view/bcaffo/home Brian Caffo] on particular projects.
-Prior to joining Yale, I received my Bachelor's degree in mathematics and statistics from the [http://www.math.pku.edu.cn/ School of Mathematical Sciences] and a dual degree in Economics from the [http://www.nsd.pku.edu.cn/ China Center for Economic Research] at [http://english.pku.edu.cn/ Peking University].
+I'm currently a Postdoctoral Research Associate in the [https://www.pacm.princeton.edu/ Program in Applied and Computational Mathematics (PACM)] at Princeton University, working with [http://web.math.princeton.edu/~amits/ Amit Singer]. 
+Previously, I received my Ph.D. in [https://statistics.yale.edu/ Statistics and Data Science] from Yale University, advised by [http://www.stat.yale.edu/~zf59/ Zhou Fan] and [https://sahandnegahban.com/ Sahand Negahban]. 
+Prior to Yale, I obtained my Bachelor's degree in mathematics from the [http://www.math.pku.edu.cn/ School of Mathematical Sciences] and a dual degree in Economics from the [http://www.nsd.pku.edu.cn/ China Center for Economic Research] at [http://english.pku.edu.cn/ Peking University].
+
+My research interests lie at the intersection of statistical inference, machine learning, mathematics of data science, and optimization. I am particularly interested in mathematical and inferential problems that arise in scientific applications, including structural biology and geophysics.
 
 
 ~~~
@@ -18,13 +20,16 @@ Prior to joining Yale, I received my Bachelor's degree in mathematics and statis
 - Address: 213 Fine Hall, Washington Road, Princeton, NJ, 08544-1000, USA.
 
 
-== Research Interests
-- High Dimensional and Multivariate Statistics
-- Statistical Learning Theory
-- Signal and Image Processing
+== Theoretical / Methodological Interests
+- Statiscal Inference
+- Machine Learning
+- Mathematics of Data Science
 - Combinatorial Algorithms
 - Convex and Nonconvex Optimization
-- Cryo-EM
-- Econometrics
+
+== Application Areas
+- Cryogenic Electron Microscopy (Cryo-EM) / Structural Biology
+- Geophysics (Paleomagnetism and Cyclostratigraphy)
 - Network Analysis
 - Time Series Analysis
+- Econometrics
